@@ -6,3 +6,7 @@
 img {
     max-width: 100%;
 }
+
+.dropdown-item .fa-chevron-down {
+    opacity: 0;
+}
